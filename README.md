@@ -5,7 +5,7 @@ Welcome to the **Hand Gesture Detection** project! This application leverages th
 
 ## 📸 Demo
 
-![Demo of Hand Gesture Detection](oip.jpeg)  
+![Demo of Hand Gesture Detection](OIP.jepg)  
 *Watch how the system detects hand landmarks in real-time!*
 
 ## 🚀 Features
