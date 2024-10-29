@@ -83,7 +83,7 @@ while cap.isOpened():
 
 ## 🐛 Issues
 
-If you encounter any issues while using the application, please check the [Issues](https://github.com/yourusername/hand-gesture-detection/issues) section or feel free to create a new issue.
+If you encounter any issues while using the application, please check the [Issues](https://github.com/chrohangurjar1/hand-gesture-detection/issues) section or feel free to create a new issue.
 
 ## 🤝 Contributing
 
