@@ -85,9 +85,16 @@ while cap.isOpened():
 
 If you encounter any issues while using the application, please check the [Issues](https://github.com/chrohangurjar1/hand-gesture-detection/issues) section or feel free to create a new issue.
 
-## 🤝 Contributing
+## 🌟 Contributors
 
-Contributions are welcome! Feel free to submit a pull request or open an issue for discussion. 
+We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make this app better every day. 💪
+
+<a href="https://github.com/chrohangurjar1/RustWeatherApp/graphs/contributors">
+  <img alt="RustWeatherApp contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar1/RustWeatherApp&columns=24" />
+</a>
+
+🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
+
 
 ## 📄 License
 
