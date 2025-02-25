@@ -5,7 +5,7 @@ Welcome to the **Hand Gesture Detection** project! This application leverages th
 
 ## 📸 Demo
 
-![Demo of Hand Gesture Detection](OIP.jpeg)  
+![Demo of Hand Gesture Detection](assets/OIP.jpeg)  
 *Watch how the system detects hand landmarks in real-time!*
 
 ## 🚀 Features
@@ -27,7 +27,7 @@ To run this project, you will need:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/chrohangurjar1/hand-gesture-detection.git
+   git clone https://github.com/RohanCyberOps/hand-gesture-detection.git
    cd hand-gesture-detection
    ```
 
@@ -61,36 +61,17 @@ This project utilizes the following key components:
 - **MediaPipe Hands**: For detecting and tracking hand landmarks.
 - **OpenCV**: For capturing video from the webcam and displaying the output.
 
-Here's a snippet of the core functionality:
-
-```python
-import cv2
-import mediapipe as mp
-
-# Initialize MediaPipe Hands
-mp_hands = mp.solutions.hands
-hands = mp_hands.Hands()
-mp_drawing = mp.solutions.drawing_utils
-
-# Capture video
-cap = cv2.VideoCapture(0)
-
-# Main loop for processing frames
-while cap.isOpened():
-    ret, frame = cap.read()
-    # Additional processing here...
-```
 
 ## 🐛 Issues
 
-If you encounter any issues while using the application, please check the [Issues](https://github.com/chrohangurjar1/hand-gesture-detection/issues) section or feel free to create a new issue.
+If you encounter any issues while using the application, please check the [Issues](https://github.com/RohanCyberOps/hand-gesture-detection/issues) section or feel free to create a new issue.
 
 ## 🌟 Contributors
 
 We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make this app better every day. 💪
 
-<a href="https://github.com/chrohangurjar1/RustWeatherApp/graphs/contributors">
-  <img alt="RustWeatherApp contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar1/RustWeatherApp&columns=24" />
+<a href="https://github.com/Rohancyberops/Hand-Dectection-Tool/graphs/contributors">
+  <img alt="Hand-Dectection-Tool contributors" height='48' src="https://contrib.rocks/image?repo=RohanCyberOps/Hand-Dectection-Tool&columns=24" />
 </a>
 
 🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
@@ -105,5 +86,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please contact:
 
 - **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [Rohan Naagar](https://github.com/chrohangurjar1)
+- **GitHub**: [Rohan Naagar](https://github.com/RohanCyberOps)
 
